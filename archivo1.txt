@@ -1,2 +1,4 @@
 Proyecto para practicar el uso de Git.
 El objetivo es practicar el uso de Git simulando el flujo de un proyecto real.
+
+Finalmente se realizará un informe describiendo los pasos realizados.
