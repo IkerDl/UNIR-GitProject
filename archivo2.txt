@@ -1,1 +1,4 @@
 Con este archivo practico la modificación de un repositorio local, añadiendo nuevos archivos para poder crear nuevos commits con diferentes estados del repositorio.
+
+Se modifica este archivo en la rama main para generar el conflicto.
+
