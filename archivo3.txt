@@ -1,1 +1,2 @@
 Este fichero sirve de prueba para hacer generar el conflicto a la hora de hacer el merge en la rama principal.
+Se intenta el conflicto por 2º vez.
